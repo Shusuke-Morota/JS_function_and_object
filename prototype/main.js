@@ -3,7 +3,7 @@
 // オブジェクトに存在する特別なプロパティー。
 // コンストラクター関数と共に使用する。
 
-unction Person(name, age) {
+function Person(name, age) {
     this.name = name;
     this.age = age;
 }
